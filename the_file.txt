@@ -1,0 +1,10 @@
+Hello word inserted by fprintf !
+Hello word for second time
+Hello word inserted by fprintf !
+Hello word for second time
+Hello word inserted by fprintf !
+Hello word for second time
+Hello word inserted by fprintf !
+Hello word for second time
+Hello word inserted by fprintf !
+Hello word for second time
